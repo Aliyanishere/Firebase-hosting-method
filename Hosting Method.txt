@@ -1,0 +1,16 @@
+Method of hosting  site.
+
+1) Download node.js in your computer/pc.
+2) Write cmd on search bar and open it.
+3) In order to check node.js is installed in your computer or not write "node-v" on cmd.
+   (if node.js is installed in your computer then it will give you a version of node.js which is installed in your computer).
+4) To check it's packages are installed in your computer or not write "npm-v" on cmd.
+   (if node.js pakages are installed in your computer then it will give you a version of it which is installed in your computer).
+5) After that close cmd and then open firebase.google.com and create a new project.
+5) Then open the cmd of that folder where your website's files are placed.
+6) On cmd write "npm install -g firebase-tools". (click enter)
+7) Then write Firebase Login. (click enter)
+8) Then write Firebase init. (click enter)
+9) After that go to that folder and paste all your website files into public folder.
+10) After that go to the same cmd and write firebase deploy. (click enter)
+11) Then it will give you a link of your host website and you can also find this link from firebase.
